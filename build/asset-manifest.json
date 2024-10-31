@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/your-repo-name/static/css/main.38695386.css",
+    "main.js": "/your-repo-name/static/js/main.6a691fc8.js",
+    "static/js/20.0c596c57.chunk.js": "/your-repo-name/static/js/20.0c596c57.chunk.js",
+    "static/media/Netflix.jpeg": "/your-repo-name/static/media/Netflix.e97a8232b8395c9e7932.jpeg",
+    "static/media/bootstrap.png": "/your-repo-name/static/media/bootstrap.3dc7e934a69a65f0f8ca.png",
+    "static/media/css.png": "/your-repo-name/static/media/css.0f9e7754f324a0a3eee3.png",
+    "static/media/python.png": "/your-repo-name/static/media/python.b89a1be9051fdce55061.png",
+    "static/media/react.png": "/your-repo-name/static/media/react.c52e9fa0a716650facd3.png",
+    "static/media/javascript.png": "/your-repo-name/static/media/javascript.25b0612eeae872b29c05.png",
+    "static/media/Free_Vector.jpg": "/your-repo-name/static/media/Free_Vector.2bf652409794e7be9363.jpg",
+    "static/media/html.png": "/your-repo-name/static/media/html.12be55d733670bdac865.png",
+    "static/media/nodejs.png": "/your-repo-name/static/media/nodejs.27ccd78b1868fac0147e.png",
+    "static/media/kranthi.jpg": "/your-repo-name/static/media/kranthi.83cb0746178002369434.jpg",
+    "index.html": "/your-repo-name/index.html",
+    "main.38695386.css.map": "/your-repo-name/static/css/main.38695386.css.map",
+    "main.6a691fc8.js.map": "/your-repo-name/static/js/main.6a691fc8.js.map",
+    "20.0c596c57.chunk.js.map": "/your-repo-name/static/js/20.0c596c57.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38695386.css",
+    "static/js/main.6a691fc8.js"
+  ]
+}
